@@ -1,0 +1,225 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+.wrapper {
+  width: 100px;
+  height: 120px;
+  padding-right: 8000px;
+  background-color: #2b3648;
+}
+.item {
+  width: 100px;
+  height: 100px;
+  color: white;
+  padding-top: 40px;
+  padding-left: 150px;
+}
+.text1 {
+  position: relative;
+  left: 90px;
+  bottom: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+}
+#test {
+  color: #ff5d00;
+  position: relative;
+  bottom: 89px;
+  left: 300px;
+}
+.text2 {
+  position: relative;
+  left: 400px;
+  bottom: 130px;
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+  white-space: nowrap;
+}
+.text3 {
+  color: #ff5d00;
+  position: relative;
+  left: 110px;
+  font-family: "Roboto", sans-serif;
+  font-size: 140px;
+}
+.text4 {
+  position: relative;
+  left: 1000px;
+  bottom: 100px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+.text5 {
+  position: relative;
+  left: 1200px;
+  bottom: 133px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text6 {
+  position: relative;
+  left: 1600px;
+  bottom: 165px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text7 {
+  position: relative;
+  color: #ff5d00;
+  left: 1800px;
+  bottom: 205px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+  border-bottom: solid 5px #ff5d00;
+}
+.text8 {
+  position: relative;
+  left: 1950px;
+  bottom: 235px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text9 {
+  position: relative;
+  left: 2170px;
+  bottom: 270px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text10 {
+  position: relative;
+  left: 2355px;
+  bottom: 303px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text11 {
+  position: relative;
+  color: #ffffff;
+  background-color: #2b3648;
+  padding: 40px;
+  padding-right: 380px;
+  border-radius: 10px;
+  padding-left: 100px;
+  left: 2450px;
+  bottom: 320px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.text12 {
+  position: relative;
+  color: grey;
+  left: 3200px;
+  bottom: 400px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.circle {
+  width: 10px;
+  height: 10px;
+  background: #ff5d00;
+  border-radius: 50%;
+  position: relative;
+  left: 3435px;
+  bottom: 420px;
+}
+.text13 {
+  position: relative;
+  color: grey;
+  left: 3560px;
+  bottom: 445px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
+.circle2 {
+  width: 35px;
+  height: 35px;
+  background: red;
+  border-radius: 50%;
+  position: relative;
+  left: 3190px;
+  bottom: 425px;
+  opacity: calc(85%);
+}
+.circle3 {
+  width: 35px;
+  height: 35px;
+  background: orange;
+  border-radius: 50%;
+  position: relative;
+  left: 3210px;
+  bottom: 460px;
+  opacity: calc(85%);
+}
+.text14 {
+  position: relative;
+  color: white;
+  left: 3192px;
+  bottom: 490px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 9px;
+  white-space: nowrap;
+}
+.text15 {
+  position: relative;
+  color: rgb(3, 32, 224);
+  left: 3265px;
+  bottom: 520px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-size: 40px;
+  white-space: nowrap;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 3250px;
+  bottom: 545px;
+}
+.img1 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 3370px;
+  bottom: 650px;
+}
+.text16 {
+  position: relative;
+  left: 3600px;
+  bottom: 715px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  white-space: nowrap;
+}
+.fa-solid fa-v {
+  font-size: 20px;
+}
+.item2 {
+  position: relative;
+  left: 3840px;
+  bottom: 774px;
+  font-size: 18px;
+}
+.text38 {
+  position: relative;
+  left: 2760px;
+  bottom: 760px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  white-space: nowrap;
+}
